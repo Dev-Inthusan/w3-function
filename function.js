@@ -39,3 +39,8 @@ var length=10
 var breadth=15
 
 area(10,15)
+
+// easy bro
+// practice makes a man perfect
+// believe
+// if you can try,if you can't let's practice
